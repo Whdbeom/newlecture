@@ -1,0 +1,22 @@
+workspace/.metadata
+*.class
+*.settings
+workspace/.metadata/.lock
+workspace/.metadata/.log
+workspace/.metadata/defender.check
+workspace/.metadata/version.ini
+workspace/.metadata/.mylyn/repositories.xml.zip
+workspace/JSPPrj/.classpath
+workspace/JSPPrj/.project
+workspace/JSPPrj/pom.xml
+workspace/JSPPrj/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+workspace/JSPPrj/target/m2e-wtp/web-resources/META-INF/maven/JSPPrj/JSPPrj/pom.properties
+workspace/JSPPrj/target/m2e-wtp/web-resources/META-INF/maven/JSPPrj/JSPPrj/pom.xml
+workspace/Servers/.project
+workspace/Servers/Tomcat v9.0 Server at localhost-config/catalina.policy
+workspace/Servers/Tomcat v9.0 Server at localhost-config/catalina.properties
+workspace/Servers/Tomcat v9.0 Server at localhost-config/context.xml
+workspace/Servers/Tomcat v9.0 Server at localhost-config/server.xml
+workspace/Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml
+workspace/Servers/Tomcat v9.0 Server at localhost-config/web.xml
+workspace/JSPPrj/src/main/webapp/META-INF/MANIFEST.MF
